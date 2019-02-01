@@ -1,6 +1,5 @@
 ## [Udemy] Modern React with Redux (Redo 'videos' project with Redux) 
-The same with pure React version from https://github.com/StephenGrider/redux-code (`videos` folder)
-
+The same (except implementing with Redux) with pure React version from https://github.com/StephenGrider/redux-code (`videos` folder)
 ## To run this project...
 
 In the project directory, you need to do:
