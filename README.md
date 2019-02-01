@@ -3,9 +3,9 @@
 In the project directory, you need to do:
 
 ### 1. add your youtube key in `./src/apis/youtube.js`
-(1) Go to Google APIs (https://console.developers.google.com/apis/) 
-(2) Register your "YouTube Data API v3" key
-(3) Paste it in `./src/apis/youtube.js` (replace `KEY=""` by your api key)
+#### (1) Go to Google APIs (https://console.developers.google.com/apis/) 
+#### (2) Register your "YouTube Data API v3" key
+#### (3) Paste it in `./src/apis/youtube.js` (replace `KEY=""` by your api key)
 
 ### 2. `npm install --save`
 To install all the package needed
